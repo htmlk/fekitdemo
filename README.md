@@ -57,5 +57,15 @@
     $ git branch -d dev
 ### dev分支的工作成果合并到master分支(当前是master分支) ###
     $ git merge dev
+### 查看远程主机 ###
+    $ git remote
+    $ git remote -v
 ### 远程删除 ###
     $ git push origin :refs/tags/v0.9
+### git fetch取回所有分支（branch）的更新。如果只想取回特定分支的更新，可以指定分支名。 ###
+    $ git fetch <远程主机名> <分支名>
+	$ git fetch origin master
+### 取回origin主机的next分支，与本地的master分支合并（取回origin/next分支，再与当前分支合并。实质上，这等同于先做git fetch，再做git merge） ###
+	$ git pull origin next:master
+### git push命令用于将本地分支的更新，推送到远程主机 ###
+	$ git push origin master
