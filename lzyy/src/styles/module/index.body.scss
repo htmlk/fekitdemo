@@ -1,0 +1,110 @@
+
+/*new*/
+.new{
+    background: #f4f4f4;
+}
+.new_c{
+    width: 1000px;
+    margin: 0 auto;
+}
+.new_c .new_title{
+    text-align: center;
+    padding-top: 45px;
+}
+.new_c .new_title h2{
+    height: 52px;
+    font: 26px "黑体";
+    color: #333333;
+}
+.new_c .new_title p{
+    height: 45px;
+    color: #666666;
+}
+.new_c .new_dl{
+    width: 1110px;
+    overflow: hidden;
+
+}
+.new_c .new_dl dl{
+    float: left;
+    width: 260px;
+    height: 300px;
+    margin-right: 110px;
+}
+.new_c .new_dl dd{
+    font-size: 16px;
+    line-height: 40px;
+    color: #333333;
+}
+.new_c .new_more{
+    padding: 25px 0;
+    position: relative;
+    height: 25px;
+
+}
+.new_c .new_more p{
+    width: 1000px;
+    height: 1px;
+    background: #cccccc;
+
+
+}
+.new_c  .new_more .more{
+    position: absolute;
+    top: 0;
+    left:475px;
+}
+
+/*stu*/
+.stu{
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+}
+.stu .stu_title h3{
+    float: left;
+    font: 18px "黑体";
+    width: 85px;
+}
+.stu .stu_title p{
+    width:915px ;
+    height: 10px;
+    float: left;
+    border-bottom: 1px double #cccccc;
+}
+.stu .stu_ul{
+    clear: both;
+}
+.stu .stu_ul ul li{
+    height: 74px;
+    padding-top: 50px;
+
+}
+.stu .stu_ul ul li span{
+    float: left;
+    width: 50px;
+    height: 50px;
+    background: url(/lzyy/libs/img/btn.png) no-repeat -103px -140px;
+    margin:15px 0 0  43px;
+}
+.stu .stu_ul ul li .span_2{
+    background-position: -103px -193px;
+
+}
+.stu .stu_ul ul li .span_3{
+    background-position: -103px -243px;
+
+}
+.stu .stu_ul ul li a{
+    float: left;
+    width: 900px;
+    height: 75px;
+    background: url(/lzyy/libs/img/huati.png) no-repeat right center;
+}
+.stu .stu_ul ul li  a b{
+    display: block;
+    margin: 15px 15px;
+}
+.stu .stu_ul ul li  a p{
+    margin: 15px 15px;
+}

@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+/* css样式重置 */
+body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table,fieldset,legend{margin:0; padding:0;}
+body{font:12px "宋体","Arial Narrow",HELVETICA;background:#fff;-webkit-text-size-adjust:100%}
+ol,ul,li{list-style:none;}
+a{text-decoration:none; color:#666;}
+img{border:0;}
+h1,h2,h3,h4,h5,h6,b,strong,em,i{font-size:inherit; font-weight:normal;}
+input,a{outline:none;}
+
+
+

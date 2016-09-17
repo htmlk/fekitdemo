@@ -1,0 +1,159 @@
+
+		<div class="iWantBox">
+			<div class="iWant">
+				<p class="iWantLeft">
+					乐知WEB在线课堂，7年沉淀，让你体验不一样的在线英语 HiKnow
+				</p>
+				<a href="#" class="iWantRight">我想免费试听</a>
+			</div>
+		</div>
+
+
+		<div class="ketang">
+			<dl>
+				<dt>
+					<img src="/lzyy/libs/img/ketang.png" />
+				</dt>
+				<dd>
+					<p class="big">外教电话英语一对一</p>
+					<p class="small">灵活微课，高质低价</p>
+				</dd>
+			</dl>
+			<dl>
+				<dt>
+					<img src="/lzyy/libs/img/ketang.png" />
+				</dt>
+				<dd>
+					<p class="big">外教电话英语一对一</p>
+					<p class="small">灵活微课，高质低价</p>
+				</dd>
+			</dl>
+			<dl>
+				<dt>
+					<img src="/lzyy/libs/img/ketang.png" />
+				</dt>
+				<dd>
+					<p class="big">外教电话英语一对一</p>
+					<p class="small">灵活微课，高质低价</p>
+				</dd>
+			</dl>
+			<dl>
+				<dt>
+					<img src="/lzyy/libs/img/ketang.png" />
+				</dt>
+				<dd>
+					<p class="big">外教电话英语一对一</p>
+					<p class="small">灵活微课，高质低价</p>
+				</dd>
+			</dl>
+		</div>
+
+
+		<div class="smallBanner">
+			<p class="big">教学支撑</p>
+			<p class="small">Teaching support</p>
+		</div>
+
+	<!--data-->
+	<div class="data">
+
+		<div class="data_dl">
+			<dl class="dl_1">
+				<dt></dt>
+				<dd>
+					<p>7年</p>
+					<b>时间的积累沉淀</b>
+				</dd>
+			</dl>
+			<dl class="dl_2">
+				<dt></dt>
+				<dd>
+					<p>7年</p>
+					<b>时间的积累沉淀</b>
+				</dd>
+			</dl>
+			<dl class="dl_3">
+				<dt></dt>
+				<dd>
+					<p>7年</p>
+					<b>时间的积累沉淀</b>
+				</dd>
+			</dl>
+		</div>
+	</div>
+
+
+		<div class="freePicBox">
+			<div class="freePic">
+				<dl>
+					<dt>
+						<img src="/lzyy/libs/img/freePic.png" />
+					</dt>
+					<dd>
+						<p class="freePicIntro">专业精致课程体系</p>
+					</dd>
+				</dl>
+				<dl>
+					<dt>
+						<img src="/lzyy/libs/img/freePic.png" />
+					</dt>
+					<dd>
+						<p class="freePicIntro">专业精致课程体系</p>
+					</dd>
+				</dl>
+				<dl>
+					<dt>
+						<img src="/lzyy/libs/img/freePic.png" />
+					</dt>
+					<dd>
+						<p class="freePicIntro">专业精致课程体系</p>
+					</dd>
+				</dl>
+				<dl>
+					<dt>
+						<img src="/lzyy/libs/img/freePic.png" />
+					</dt>
+					<dd>
+						<p class="freePicIntro">专业精致课程体系</p>
+					</dd>
+				</dl>
+			</div>
+		</div>
+
+
+		<div class="phone">
+			<ul>
+				<li class="dianwo">
+					<p class="dianwo1">400-684-6688</p>
+					<p class="dianwo2">点我联系<span>课程咨询</span></p>
+				</li>
+				<li class="freeListen">
+					<p class="freeListen1">免费试听</p>
+					<p class="freeListen2">
+						大家都说英语教学老师最重要，所有老师课程不加包装让您随意试听。只有乐知能做到。
+					</p>
+					<a href="#" class="freeListen3">立即注册,免费试听</a>
+				</li>
+				<li class="freeListen">
+					<p class="freeListen1">免费试听</p>
+					<p class="freeListen2">
+						大家都说英语教学老师最重要，所有老师课程不加包装让您随意试听。只有乐知能做到。
+					</p>
+					<a href="#" class="freeListen3">立即注册,免费试听</a>
+				</li>
+				<li class="freeListen">
+					<p class="freeListen1">免费试听</p>
+					<p class="freeListen2">
+						大家都说英语教学老师最重要，所有老师课程不加包装让您随意试听。只有乐知能做到。
+					</p>
+					<a href="#" class="freeListen3">立即注册,免费试听</a>
+				</li>
+				<li class="freeListen">
+					<p class="freeListen1">免费试听</p>
+					<p class="freeListen2">
+						大家都说英语教学老师最重要，所有老师课程不加包装让您随意试听。只有乐知能做到。
+					</p>
+					<a href="#" class="freeListen3">立即注册,免费试听</a>
+				</li>
+			</ul>
+		</div>

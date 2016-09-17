@@ -1,0 +1,55 @@
+/*data*/
+.data{
+    width: 1000px;
+
+    margin: 0 auto;
+
+}
+.data .data_title{
+    text-align: center;
+    font: 26px "黑体";
+}
+.data h2{
+    text-align: center;
+    height: 105px;
+    line-height: 105px;
+    background: url(/lzyy/libs/img/title.png) no-repeat bottom center;
+
+}
+.data .data_dl{
+    height: 230px;
+    width: 1050px;
+}
+ .data .data_dl dl{
+     width: 300px;
+     height: 230px;
+     float: left;
+
+     margin-right: 50px;
+ }
+.data .data_dl dt{
+    height: 40px;
+    width: 65px;
+    float: left;
+    background: url(/lzyy/libs/img/btn.png) no-repeat -110px -20px;
+}
+.data .data_dl .dl_2 dt{
+    background: url(/lzyy/libs/img/btn.png) no-repeat -105px -60px;
+}
+.data .data_dl .dl_3 dt{
+    background: url(/lzyy/libs/img/btn.png) no-repeat -110px -101px;
+}
+.data .data_dl dd{
+    float: left;
+    width: 235px;
+    border-bottom: 2px solid #ff6600;
+}
+.data .data_dl dd b{
+    height: 35px;
+    line-height: 35px;
+}
+.data .data_dl dd p{
+    height: 60px;
+    line-height: 60px;
+    font-size: 34px;
+}

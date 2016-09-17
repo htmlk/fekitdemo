@@ -1,0 +1,64 @@
+<!--new-->
+<div class="new">
+    <div class="new_c">
+    <div class="new_title">
+        <h2>效果无上限，价格无底线</h2>
+        <p>不限课时、不限级别，英美外教畅学。听课天天免费，永远不怕见光死。</p>
+    </div>
+    <div class="new_dl">
+        <!-- <dl>
+            <dt><img src="/lzyy/libs/img/new1.jpg"></dt>
+            <dd>朗文中级英语语法II(L4)-CHAPTER11</dd>
+        </dl> -->
+
+
+    </div>
+    <div class="new_more">
+        <p></p>
+        <a class="more" href="###"><img src="/lzyy/libs/img/more.png"></a>
+    </div>
+    </div>
+</div>
+<!--data-->
+<div class="data">
+    <div class="data_title">
+        <h2>数据胜于雄辩</h2>
+    </div>
+    <div class="data_dl">
+        <dl class="dl_1">
+            <dt></dt>
+            <dd>
+                <p>7年</p>
+                <b>时间的积累沉淀</b>
+            </dd>
+        </dl>
+        <dl class="dl_2">
+            <dt></dt>
+            <dd>
+                <p>7年</p>
+                <b>时间的积累沉淀</b>
+            </dd>
+        </dl>
+        <dl class="dl_3">
+            <dt></dt>
+            <dd>
+                <p>7年</p>
+                <b>时间的积累沉淀</b>
+            </dd>
+        </dl>
+    </div>
+</div>
+<!--stu-->
+<div class="stu">
+    <div class="stu_title">
+        <h3>学员评价</h3>
+        <p></p>
+    </div>
+    <div class="stu_ul">
+    <ul>
+        <li><span class="span_1"></span><a href=""><b>Gina said :</b><p>老师上课气氛很好 超级喜欢</p></a></li>
+        <li><span class="span_2"></span><a href=""><b>Gina said :</b><p>老师上课气氛很好 超级喜欢</p></a></li>
+        <li><span class="span_3"></span><a href=""><b>Gina said :</b><p>老师上课气氛很好 超级喜欢</p></a></li>
+    </ul>
+    </div>
+</div>

@@ -1,0 +1,64 @@
+<!--banner-->
+<div class="slides">
+    <div class="slideInner">
+        <!-- 1-->
+            <a href="#" style="background: url(/lzyy/libs/images/img.jpg) no-repeat;">
+                <div class="moveElem img1" rel="0,easeInOutExpo"> <img src="/lzyy/libs/picture/slide1-p1.png" /> </div>
+            </a>
+        <!-- 2-->
+            <a href="#"  style="background: url(/lzyy/libs/images/img.jpg) no-repeat">
+                <div class="moveElem p1" rel="650,easeInOutBack">
+                    <p>乐知英语，</p>
+                    <p>9年沉淀细节凸显品质，</p>
+                </div>
+                <div class="moveElem p2" rel="850,easeInOutBack">
+                    <span>价格凸显诚意 HiKnow精致学习</span>
+                    <span>精致生活</span>
+                </div>
+                <div class="moveElem p3" rel="1050,easeInOutBack">
+                    <b>查看详情</b>
+                </div>
+                <div class="moveElem img2" rel="0,easeInOutExpo"> <img src="/lzyy/libs/picture/slide4-p2.png" /> </div>
+            </a>
+        <!-- 3-->
+            <a href="#" style="background: url(/lzyy/libs/images/img.jpg) no-repeat">
+                <div class="moveElem img2" rel="450,easeInOutExpo"> <img src="/lzyy/libs/picture/slide3-p2.png" /> </div>
+                <div class="moveElem p1" rel="650,easeInOutBack">
+                    <p>乐知英语，</p>
+                    <p>9年沉淀细节凸显品质，</p>
+                </div>
+                <div class="moveElem p2" rel="850,easeInOutBack">
+                    <span>价格凸显诚意 HiKnow精致学习</span>
+                    <span>精致生活</span>
+                </div>
+                <div class="moveElem p3" rel="1050,easeInOutBack">
+                    <b>查看详情</b>
+                </div>
+
+            </a>
+        <!-- 4-->
+            <a href="#" style="background: url(/lzyy/libs/images/img.jpg) no-repeat">
+                <div class="moveElem img1" rel="0,easeInOutExpo"> <img src="/lzyy/libs/picture/slide2-p1.png" /> </div>
+            </a>
+
+        <!-- 5-->
+            <a href="#"  style="background: url(/lzyy/libs/images/img.jpg) no-repeat">
+                <div class="moveElem p1" rel="650,easeInOutBack">
+                    <p>乐知英语，</p>
+                    <p>9年沉淀细节凸显品质，</p>
+                </div>
+                <div class="moveElem p2" rel="850,easeInOutBack">
+                    <span>价格凸显诚意 HiKnow精致学习</span>
+                    <span>精致生活</span>
+                </div>
+                <div class="moveElem p3" rel="1050,easeInOutBack">
+                    <b>查看详情</b>
+                </div>
+                <div class="moveElem img2" rel="0,easeInOutExpo"> <img src="/lzyy/libs/picture/slide5-p2.png" /> </div>
+            </a>
+    </div>
+    <div class="nav">
+        <a class="prev" href="javascript:;"></a>
+        <a class="next" href="javascript:;"></a>
+    </div>
+</div>

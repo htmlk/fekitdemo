@@ -1,0 +1,108 @@
+@charset "UTF-8";body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table,fieldset,legend{margin:0;padding:0}
+body{font:12px "宋体","Arial Narrow",HELVETICA;background:#fff;-webkit-text-size-adjust:100%}
+ol,ul,li{list-style:none}
+a{text-decoration:none;color:#666}
+img{border:0}
+h1,h2,h3,h4,h5,h6,b,strong,em,i{font-size:inherit;font-weight:normal}
+input,a{outline:0}
+.nav{border-top:2px solid #0582bc;border-bottom:1px solid #ccc}
+.nav_c{width:1000px;height:44px;margin:0 auto}
+.nav_left{float:left}
+.nav_left li{float:left;line-height:44px;border-left:1px solid #ccc}
+.nav_left li a{color:#333}
+.border_right{border-right:1px solid #ccc;background:url(/lzyy/libs/img/btn.png) no-repeat -127px 19px}
+.nav_left .border_right a{color:#f60;margin-left:13px;font-size:14px}
+.nav_left a{padding:0 14px}
+.nav_right{float:right;background:#f60}
+.nav_right{padding:0 14px;line-height:44px;color:#fff}
+.top_c{width:1000px;height:76px;margin:0 auto}
+.top_left{float:left;padding-top:16px}
+.top_right{float:right}
+.top_right li{float:left;line-height:70px;padding:0 23px}
+.top_right li a{display:block}
+.top_right li a:hover{border-bottom:2px solid #069}
+.top_right .active a{border-bottom:2px solid #069}
+.top_right .li_2 a{color:#c00}
+.slides{width:100%;height:450px;position:relative;overflow:hidden}
+.slideInner{height:450px;position:relative;left:0;margin-left:0}
+.slideInner a{display:block;height:450px;background-size:cover;background-position:center center;position:relative;text-align:center;z-index:1}
+.slideInner a div.img1{width:1070px;position:absolute;left:50%;margin-left:-535px}
+.slideInner a div.img2{width:500px;position:absolute;top:0;left:50%}
+.slideInner a div.p1{width:500px;position:absolute;top:60px;right:50%}
+.slideInner a div.p2{width:500px;position:absolute;top:180px;right:50%}
+.slideInner a div.p3{width:500px;position:absolute;top:260px;right:50%}
+.slideInner a div.p1 p{height:50px;text-align:left;font:36px "黑体"}
+.slideInner a div.p2 span{display:block;width:500px;height:30px;text-align:left;font:18px "黑体";top:160px}
+.slideInner a div.p3 b{display:block;width:150px;height:20px;padding:15px 0;font:20px "黑体";background:#199fd6;color:#fff;margin-top:20px}
+.slides .nav{width:1200px;position:relative;left:50%;margin-left:-600px;display:none}
+.slides .nav a{display:block;width:41px;height:119px;opacity:.2;z-index:9}
+.slides .nav a.prev{position:absolute;left:0;top:-225px;margin-top:-58px;background:url(/lzyy/libs/images/ban_pre.png) no-repeat}
+.slides .nav a.next{position:absolute;right:0;top:-225px;margin-top:-58px;background:url(/lzyy/libs/images/ban_next.png) no-repeat}
+.navListBox{position:absolute;left:50%;top:425px;z-index:99}
+.navListBox li{width:12px;height:12px;float:left;margin-left:5px;border-radius:50%;overflow:hidden}
+.navListBox li:first-child{margin-left:0}
+.navListBox li a{display:block;width:100%;height:100%;border-radius:50%;background-color:#fff;box-shadow:0 0 5px #666 inset}
+.navListBox li a.active{background-color:#5df}
+.new{background:#f4f4f4}
+.new_c{width:1000px;margin:0 auto}
+.new_c .new_title{text-align:center;padding-top:45px}
+.new_c .new_title h2{height:52px;font:26px "黑体";color:#333}
+.new_c .new_title p{height:45px;color:#666}
+.new_c .new_dl{width:1110px;overflow:hidden}
+.new_c .new_dl dl{float:left;width:260px;height:300px;margin-right:110px}
+.new_c .new_dl dd{font-size:16px;line-height:40px;color:#333}
+.new_c .new_more{padding:25px 0;position:relative;height:25px}
+.new_c .new_more p{width:1000px;height:1px;background:#ccc}
+.new_c .new_more .more{position:absolute;top:0;left:475px}
+.stu{width:1000px;height:500px;margin:0 auto}
+.stu .stu_title h3{float:left;font:18px "黑体";width:85px}
+.stu .stu_title p{width:915px;height:10px;float:left;border-bottom:1px double #ccc}
+.stu .stu_ul{clear:both}
+.stu .stu_ul ul li{height:74px;padding-top:50px}
+.stu .stu_ul ul li span{float:left;width:50px;height:50px;background:url(/lzyy/libs/img/btn.png) no-repeat -103px -140px;margin:15px 0 0 43px}
+.stu .stu_ul ul li .span_2{background-position:-103px -193px}
+.stu .stu_ul ul li .span_3{background-position:-103px -243px}
+.stu .stu_ul ul li a{float:left;width:900px;height:75px;background:url(/lzyy/libs/img/huati.png) no-repeat right center}
+.stu .stu_ul ul li a b{display:block;margin:15px 15px}
+.stu .stu_ul ul li a p{margin:15px 15px}
+.data{width:1000px;margin:0 auto}
+.data .data_title{text-align:center;font:26px "黑体"}
+.data h2{text-align:center;height:105px;line-height:105px;background:url(/lzyy/libs/img/title.png) no-repeat bottom center}
+.data .data_dl{height:230px;width:1050px}
+.data .data_dl dl{width:300px;height:230px;float:left;margin-right:50px}
+.data .data_dl dt{height:40px;width:65px;float:left;background:url(/lzyy/libs/img/btn.png) no-repeat -110px -20px}
+.data .data_dl .dl_2 dt{background:url(/lzyy/libs/img/btn.png) no-repeat -105px -60px}
+.data .data_dl .dl_3 dt{background:url(/lzyy/libs/img/btn.png) no-repeat -110px -101px}
+.data .data_dl dd{float:left;width:235px;border-bottom:2px solid #f60}
+.data .data_dl dd b{height:35px;line-height:35px}
+.data .data_dl dd p{height:60px;line-height:60px;font-size:34px}
+#foot{background:#033c55}
+.foot1{width:1000px;height:260px;margin:0 auto}
+.foot1 dl{padding-top:40px;width:220px;float:left;margin-right:10px}
+.foot1 .btn_link p{line-height:20px}
+.foot1 .btn_link a{float:left;width:30px;height:30px;margin-top:10px;background:url(/lzyy/libs/img/btn.png) no-repeat -5px -70px}
+.foot1 .btn_link .a_2{background-position:-35px -70px}
+.foot1 .btn_link .a_3{background-position:-65px -70px}
+.foot1 .btn_link .a_4{background-position:0 -108px}
+.foot1 .btn_link .a_5{background-position:-35px -108px}
+.foot1 .btn_link .a_6{background-position:-65px -108px}
+.foot1 .btn_link2 li{height:37px;line-height:37px;border-top:1px solid #03435e;border-bottom:1px solid #03435e}
+.foot1 .btn_link2 a{font-size:14px;color:#618c9f}
+.foot1 .btn_link3 a{float:left;width:85px;height:35px;line-height:35px;text-align:center;margin:0 5px 5px 0;border-radius:5px;background:#032432;color:#618c9f}
+.foot1 .btn_link4 li{height:34px;line-height:34px;background:url(/lzyy/libs/img/btn.png) no-repeat -133px -287px}
+.foot1 .btn_link4 .li_2{background-position:-133px -320px}
+.foot1 .btn_link4 .li_3{background-position:-133px -350px}
+.foot1 .btn_link4 a{color:#618c9f;margin-left:30px}
+.foot1 dt{font-size:14px;height:50px;line-height:50px}
+.foot1 dt a{float:left;width:70px;color:#fff}
+.foot1 dt span{float:left;width:150px;border-top:1px solid #03435e;border-bottom:1px solid #03435e;height:3px;margin-top:25px}
+.foot1 dd{color:#618c9f}
+#footer{width:1000px;height:204px;margin:0 auto;color:#666}
+#footer p{height:50px;text-align:center}
+#footer .p_1{height:70px;line-height:70px}
+#footer ul{width:700px;margin:0 auto}
+#footer li{float:left;width:140px;height:40px;background:url(/lzyy/libs/img/btn.png) no-repeat 40px -147px}
+#footer .li_2{background-position:40px -200px}
+#footer .li_3{background-position:40px -244px}
+#footer .li_4{background-position:20px -296px}
+#footer .li_5{background-position:40px -340px}

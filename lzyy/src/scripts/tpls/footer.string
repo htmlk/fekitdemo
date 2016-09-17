@@ -1,0 +1,67 @@
+<!--foot-->
+<div id="foot">
+    <div class="foot1">
+       <dl>
+           <dt><a href="">关于我们</a><span></span></dt>
+           <dd class="btn_link"><p>上海乐知网络科技有限公司（乐知英语）成立于2006年，是一家集英语教育及互联网科技为一体的创新培训机构。</p>
+               <a class="a_1" href=""></a>
+               <a class="a_2" href=""></a>
+               <a class="a_3" href=""></a>
+               <a class="a_4" href=""></a>
+               <a class="a_5" href=""></a>
+               <a class="a_6" href=""></a>
+           </dd>
+       </dl>
+        <dl>
+            <dt><a href="">购买帮助</a><span></span></dt>
+            <dd class="btn_link2">
+                <ul>
+                    <li><a href="">&gt;课程咨询</a></li>
+                    <li><a href="">&gt;教育服务</a></li>
+                    <li><a href="">&gt;技术支持</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl>
+            <dt><a href="">热门标签</a><span></span></dt>
+            <dd class="btn_link3">
+                <a href="">核心口语</a>
+                <a href="">地道英语</a>
+                <a href="">教育语法</a>
+                <a href="">商务英语</a>
+            </dd>
+        </dl>
+        <dl>
+            <dt><a href="">关于我们</a><span></span></dt>
+            <dd class="btn_link4">
+                <ul>
+                    <li class="li_1"><a href="">support@hiknow.com</a></li>
+                    <li class="li_2"><a href="">400-000-000</a></li>
+                    <li class="li_3"><a href="">乐知英语 官方微博</a></li>
+                </ul>
+            </dd>
+        </dl>
+
+    </div>
+</div>
+<!--footer-->
+<div id="footer">
+    <p class="p_1">网站地图 | 友情链接：
+        <a href="">海词词典</a>
+        <a href="">英语口语</a>
+        <a href="">上海培训网</a>
+        <a href="">英语单词表</a>
+        <a href="">VOA美国之音</a>
+        <a href="">GRE </a>
+        <a href="">VOA慢速英语</a>
+        <a href="">英语考试</a>
+    </p>
+    <p class="p_2">沪ICP备09038394号 Copyright©2006-2013 Hiknow Inc. All Rights Reserved. ©乐知网hiknow.com版权所有,本公司保留所有权利.</p>
+    <ul>
+        <li class="li_1"><a href=""></a></li>
+        <li class="li_2"><a href=""></a></li>
+        <li class="li_3"><a href=""></a></li>
+        <li class="li_4"><a href=""></a></li>
+        <li class="li_5"><a href=""></a></li>
+    </ul>
+</div>

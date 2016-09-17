@@ -1,0 +1,135 @@
+/*foot*/
+#foot{
+    background: #033c55;
+}
+.foot1{
+    width: 1000px;
+    height: 260px;
+    margin: 0 auto;
+}
+.foot1 dl{
+    padding-top: 40px;
+    width: 220px;
+    float: left;
+    margin-right: 10px;
+}
+.foot1 .btn_link p{
+    line-height: 20px;
+}
+.foot1 .btn_link a{
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    background: url(/lzyy/libs/img/btn.png) no-repeat -5px -70px;
+}
+.foot1 .btn_link .a_2{
+    background-position: -35px -70px;
+}
+.foot1 .btn_link .a_3{
+    background-position: -65px -70px;
+}
+.foot1 .btn_link .a_4{
+    background-position: 0px -108px;
+}
+.foot1 .btn_link .a_5{
+    background-position: -35px -108px;
+}
+.foot1 .btn_link .a_6{
+    background-position: -65px -108px;
+}
+.foot1 .btn_link2 li{
+    height: 37px;
+    line-height: 37px;
+    border-top: 1px solid #03435e;
+    border-bottom: 1px solid #03435e;
+}
+
+.foot1 .btn_link2 a{
+    font-size: 14px;
+    color: #618c9f;
+}
+.foot1 .btn_link3 a{
+    float: left;
+    width: 85px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    margin: 0 5px 5px 0;
+    border-radius: 5px;
+    background: #032432;
+    color: #618c9f;
+}
+.foot1 .btn_link4 li{
+    height: 34px;
+    line-height: 34px;
+    background: url(/lzyy/libs/img/btn.png) no-repeat -133px -287px;
+}
+.foot1 .btn_link4 .li_2{
+    background-position: -133px -320px;
+}
+.foot1 .btn_link4 .li_3{
+    background-position: -133px -350px;
+}
+.foot1 .btn_link4 a{
+    color: #618c9f;
+    margin-left: 30px;
+}
+ .foot1 dt{
+    font-size: 14px;
+    height: 50px;
+    line-height: 50px;
+}
+.foot1 dt a{
+    float: left;
+    width: 70px;
+    color: #ffffff;
+}
+.foot1 dt span{
+    float: left;
+    width: 150px;
+    border-top: 1px solid #03435e;
+    border-bottom: 1px solid #03435e;
+    height: 3px;
+    margin-top: 25px ;
+}
+.foot1 dd{
+    color:#618c9f;
+}
+/*footer*/
+#footer{
+    width: 1000px;
+    height: 204px;
+    margin: 0 auto;
+    color: #666666;
+}
+#footer p{
+    height: 50px;
+    text-align: center;
+}
+#footer .p_1{
+    height: 70px;
+    line-height: 70px;
+}
+#footer ul{
+    width: 700px;
+    margin:  0 auto;
+}
+#footer li{
+    float: left;
+    width: 140px;
+    height: 40px;
+    background: url(/lzyy/libs/img/btn.png) no-repeat 40px -147px;
+}
+#footer .li_2{
+    background-position: 40px -200px;
+}
+#footer .li_3{
+    background-position: 40px -244px;
+}
+#footer .li_4{
+    background-position: 20px -296px;
+}
+#footer .li_5{
+    background-position: 40px -340px;
+}

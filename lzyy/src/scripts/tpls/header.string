@@ -1,0 +1,35 @@
+<!--导航-->
+    <div class="nav">
+        <div class="nav_c">
+            <div class="nav_left">
+                <ul>
+                    <li><a href="">请登录</a></li>
+                    <li><a href="">免费注册</a></li>
+                    <li class="border_right"><a href="">400-684-6688</a></li>
+                </ul>
+            </div>
+            <div class="nav_right">
+                <p>少儿英语</p>
+            </div>
+        </div>
+    </div>
+<!--top-->
+<div class="top">
+    <div class="top_c">
+        <div class="top_left">
+            <img src="/lzyy/libs/img/logo.png"/>
+        </div>
+        <div class="top_right">
+            <ul>
+                <li class="active"><a href="index.html">首页</a></li>
+                <li class="li_2"><a href="freeListen.html">免费试听</a></li>
+                <li><a href="">如何上课</a></li>
+                <li><a href="">课程</a></li>
+                <li><a href="">教学服务</a></li>
+                <li><a href="">退款保障</a></li>
+                <li><a href="">测试</a></li>
+                <li><a href="">关于我们</a></li>
+            </ul>
+        </div>
+    </div>
+</div>

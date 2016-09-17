@@ -1,0 +1,77 @@
+/*nav*/
+.nav{
+    border-top: 2px solid #0582bc;
+    border-bottom: 1px solid #cccccc;
+}
+.nav_c{
+    width: 1000px;
+    height: 44px;
+    margin: 0 auto;
+
+}
+.nav_left{
+    float: left;
+}
+.nav_left li{
+    float: left;
+    line-height: 44px;
+    border-left: 1px solid #cccccc;
+}
+.nav_left li a{
+    color: #333333;
+}
+.border_right{
+    border-right: 1px solid #cccccc;
+    background: url(/lzyy/libs/img/btn.png) no-repeat -127px 19px;
+}
+.nav_left  .border_right a{
+    color: #ff6600;
+    margin-left: 13px;
+    font-size: 14px;
+}
+.nav_left a{
+    padding:0 14px;
+}
+.nav_right{
+    float: right;
+    background:#ff6600;
+}
+.nav_right{
+    padding:0 14px;
+    line-height: 44px;
+    color: #ffffff;
+}
+/*top*/
+.top{
+}
+.top_c{
+    width: 1000px;
+    height: 76px;
+    margin: 0 auto;
+}
+.top_left{
+    float: left;
+    padding-top: 16px;
+ }
+.top_right{
+    float: right;
+}
+.top_right li{
+    float: left;
+    line-height: 70px;
+    padding:  0 23px;
+
+}
+.top_right li a{
+    display: block;
+
+}
+.top_right li a:hover{
+    border-bottom: 2px solid #006699;
+}
+.top_right .active a{
+    border-bottom: 2px solid #006699;
+}
+.top_right .li_2 a{
+    color: #cc0000;
+}
