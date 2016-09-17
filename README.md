@@ -46,3 +46,16 @@
 图片1：[http://7xn9on.com1.z0.glb.clouddn.com/tour2.png](http://7xn9on.com1.z0.glb.clouddn.com/tour2.png "http://7xn9on.com1.z0.glb.clouddn.com/tour2.png")
 
 图片1：[http://7xn9on.com1.z0.glb.clouddn.com/tour3.png](http://http://7xn9on.com1.z0.glb.clouddn.com/tour3.png "http://7xn9on.com1.z0.glb.clouddn.com/tour3.png")
+## git 命令 ##
+### 创建分支 ###
+    $ git checkout -b dev
+### 查看分支 ###
+    $ git branch dev
+### 切换分支 ###
+    $ git checkout dev
+### 删除分支 ###
+    $ git branch -d dev
+### dev分支的工作成果合并到master分支(当前是master分支) ###
+    $ git merge dev
+### 远程删除 ###
+    $ git push origin :refs/tags/v0.9
